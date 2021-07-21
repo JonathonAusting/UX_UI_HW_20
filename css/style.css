@@ -1,0 +1,43 @@
+body {
+    background-color: #243C53;
+    color: #fff;
+}
+.casestudy-hero {
+    height: 40vh;
+    text-align: center;
+    background-color: #172736;
+}
+.diff-back {
+    background-color: #172736;
+}
+.section-pad {
+    padding: 5em;
+}
+#PupNav {
+    margin: 0 auto;
+    padding-top: 15vh;
+    font-size: 2.5em;
+}
+.sectioning {
+    margin: 5em;
+}
+.list {
+    padding-top: 6em;
+}
+.research-image {
+    width: 100%;
+}
+#empathy {
+    padding-top: 2em;
+}
+.pad-inside {
+    padding-top: 3em;
+}
+#image-brk {
+    height: .25em;
+    width: 20em;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
